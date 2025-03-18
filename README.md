@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/dutyadmin/CG-AZ400-contosoAir/_apis/build/status%2FDamupContoso.ContosoAir?branchName=master)](https://dev.azure.com/dutyadmin/CG-AZ400-contosoAir/_build/latest?definitionId=20&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
